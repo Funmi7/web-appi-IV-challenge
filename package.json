@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engine": {
+    "node": "12.7.0",
+    "npm": "6.10.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
